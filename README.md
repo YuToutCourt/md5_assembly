@@ -24,5 +24,7 @@ make cry
 What I have read:
 
 https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+
 http://ref.x86asm.net/coder32.html
+
 https://rosettacode.org/wiki/MD5/Implementation
