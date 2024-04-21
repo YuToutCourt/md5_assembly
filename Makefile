@@ -22,5 +22,9 @@ $(ASM_FILE).o: $(ASM_FILE).asm
 clean:
 	$(RM) $(OBJS) $(EXECUTABLE)
 
+
+cry:
+	echo "cry"
+
 default: all
 rebuild: clean all
